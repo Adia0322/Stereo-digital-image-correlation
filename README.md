@@ -3,9 +3,13 @@ Stereo Digital Image Correlation (SDIC) is a non-contact optical measurement tec
 The example can measure the displacement of speckle pattern on rubber surface
 
 STEP1: capture checkerboard images (10 more)　　
+
 left:　　
+
 ![camera1 image2](https://github.com/Adia0322/Stereo-digital-image-correlation/assets/89566671/f4016d4d-7cb0-4e49-b08b-fdda729ab5be)　　
+
 right:　　
+
 ![camera2 image2](https://github.com/Adia0322/Stereo-digital-image-correlation/assets/89566671/9a6a3aaa-752d-4090-aebc-e46d18fc7bf4)　　
 
 STEP2: camera calibration
@@ -14,8 +18,9 @@ STEP2: camera calibration
 STEP3: check image correaltion results (optional)  
 
 STEP4: measure the displacement of the surface on rubber  
-![step4-1](https://github.com/Adia0322/Stereo-digital-image-correlation/assets/89566671/5bf73edd-611e-4d65-83f2-b50b4d3bcbd6)  
-![step4-2](https://github.com/Adia0322/Stereo-digital-image-correlation/assets/89566671/79dbfe13-354a-4ebf-9ee8-391d3700a399)  
-![step4-3](https://github.com/Adia0322/Stereo-digital-image-correlation/assets/89566671/7c690aad-d3cc-4230-9e4e-c3bfbc2ed50d)  
+![step4-1](https://github.com/Adia0322/Stereo-digital-image-correlation/assets/89566671/00580237-30d1-4ea6-938d-dc9a342d0589)
+![step4-2](https://github.com/Adia0322/Stereo-digital-image-correlation/assets/89566671/28d3743d-f253-4a75-98fe-c38bcbc0a45b)
+![step4-3](https://github.com/Adia0322/Stereo-digital-image-correlation/assets/89566671/2aa9bc97-2d30-4b7b-97e8-c984bd76c310)
+
 
 
